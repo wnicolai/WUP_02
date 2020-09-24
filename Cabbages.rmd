@@ -48,7 +48,7 @@ plot(VitC~Cult,data=veggy)
 ```{r}
 favstats(VitC~Cult,data=veggy)
 ```
-the mean is 
+the mean for C39 is 51.5 and C52 is 64.4, so C52 has a larger mean.
   
 ## Inferential Results
 
@@ -63,3 +63,5 @@ if the null hypothesis is true than the chances that we get these results is .00
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
