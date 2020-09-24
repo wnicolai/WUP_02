@@ -1,7 +1,7 @@
 ---
 title: "Cabbages"
-author: "Put your name here!"
-date: "put the date here"
+author: "Will Nicolai"
+date: "Sept 23, 2020"
 output:
   html_document:
     df_print: paged
