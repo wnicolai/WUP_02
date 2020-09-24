@@ -64,4 +64,4 @@ if the null hypothesis is true than the chances that we get these results is .00
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-
+According the the data, we can conclude that C52 is much more productive for producing Vitamin C.
